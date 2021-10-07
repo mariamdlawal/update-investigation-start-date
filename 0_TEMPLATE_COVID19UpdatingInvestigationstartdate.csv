@@ -1,0 +1,2 @@
+Case.CaseID,INVESTIGATION_START_DATE,INVESTIGATOR,Case.Note
+,,,"""Investigation start date” populated for all cases from LHJs participating in CREST via the “COVID-19 Updating Investigation start date” roster."
